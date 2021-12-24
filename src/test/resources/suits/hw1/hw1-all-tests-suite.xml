@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="JDI-hw1-all-tests-suite">
+  <test name="JDI-hw6-all-tests-suite">
+    <packages>
+      <package name="JDI.hw1.*"></package>
+    </packages>
+  </test>
+</suite>
